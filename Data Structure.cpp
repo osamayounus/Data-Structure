@@ -346,7 +346,6 @@ void UserAccountListType::printInfo_of_UserId (string id)
     cout << "\nthis account is not existed\n";
 }
 
-
 int main ()
 {
 
